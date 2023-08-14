@@ -1,0 +1,26 @@
+# Virtual Environment
+env/
+
+# Python Bytecode
+__pycache__/
+*.pyc
+
+# Database (SQLite)
+db.sqlite3
+
+# Django-specific files
+*.log
+*.pot
+*.egg-info/
+local_settings.py
+
+# IDEs/Editors
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Add other IDE/editor-specific lines as needed
+
